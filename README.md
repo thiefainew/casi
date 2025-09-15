@@ -1,8 +1,7 @@
 # What is CASI?
 
-CASI is a C library for implementing high-efficiency algorithms for AI.
+CASI is a C library for implementing efficient algorithms for Artificial Intelligence.
 
 # Philosophy
 
-From first-principles thinking arise new ideas.
-An algorithm is a composition of smaller, specialized algorithms.
+Each algorithm should be a composition of smaller, specialized algorithms.
