@@ -1,4 +1,4 @@
-# What is CASI (C + ASI)?
+# What is CASI?
 
 CASI is a C library for implementing high-efficiency algorithms for AI.
 
